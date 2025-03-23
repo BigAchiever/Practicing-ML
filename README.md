@@ -24,4 +24,4 @@ This repository contains my personal projects, practice code, and notes based on
 
 ## Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/hands-on-ml-practice.git
+   git clone https://github.com/BigAchiever/Practicing-ML.git
